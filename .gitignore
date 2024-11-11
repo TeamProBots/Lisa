@@ -1,15 +1,15 @@
 # Config files, logs and stuff
-MukeshRobot/modules/helper_funcs/temp.txt
-MukeshRobot/elevated_users.json
-# MukeshRobot/config.py
-MukeshRobot/config.ini
+Lisa/modules/helper_funcs/temp.txt
+Lisa/elevated_users.json
+# Lisa/config.py
+Lisa/config.ini
 log.txt
 kangsticker.png
 updates.txt
 
 # Session files
-MukeshRobot/*.session
-MukeshRobot/*.session-journal
+Lisa/*.session
+Lisa/*.session-journal
 Mukesh.session-journal
 *.session
 
