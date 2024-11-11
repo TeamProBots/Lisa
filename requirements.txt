@@ -60,5 +60,5 @@ pyfiglet
 MukeshAPI
 pretty-errors
 pymongo
-NumPy<2
+NumPy<3
 pybind11>=2.12
